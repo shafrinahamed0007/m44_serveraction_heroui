@@ -1,0 +1,88 @@
+{
+    "tasks": [
+        {
+            "id": "T-001",
+            "title": "API Integration",
+            "description": "Connect the frontend with the core REST API endpoints.",
+            "status": "In Progress",
+            "priority": "Critical",
+            "dueDate": "2026-04-22",
+            "assignedTo": "Arif Ahmed",
+            "tags": [
+                "Backend",
+                "Security"
+            ],
+            "createdAt": "2026-04-18T10:30:00Z"
+        },
+        {
+            "id": "T-002",
+            "title": "Homepage UI Design",
+            "description": "Create a high-fidelity mockup for the new landing page.",
+            "status": "Completed",
+            "priority": "High",
+            "dueDate": "2026-04-15",
+            "assignedTo": "Sumi Akhter",
+            "tags": [
+                "UI/UX",
+                "Figma"
+            ],
+            "createdAt": "2026-04-10T08:15:00Z"
+        },
+        {
+            "id": "T-003",
+            "title": "Database Migration",
+            "description": "Migrate data from legacy SQL server to the new cloud instance.",
+            "status": "Pending",
+            "priority": "High",
+            "dueDate": "2026-04-25",
+            "assignedTo": "Tanvir Hossain",
+            "tags": [
+                "Database",
+                "DevOps"
+            ],
+            "createdAt": "2026-04-19T14:45:00Z"
+        },
+        {
+            "id": "T-004",
+            "title": "Social Media Campaign",
+            "description": "Launch the Facebook and Instagram ad campaign for summer sale.",
+            "status": "In Progress",
+            "priority": "Medium",
+            "dueDate": "2026-05-01",
+            "assignedTo": "Nabila Islam",
+            "tags": [
+                "Marketing",
+                "Ads"
+            ],
+            "createdAt": "2026-04-17T09:00:00Z"
+        },
+        {
+            "id": "T-005",
+            "title": "Bug Fixing - Checkout",
+            "description": "Fix the issue where credit card payment fails for some users.",
+            "status": "Todo",
+            "priority": "Critical",
+            "dueDate": "2026-04-21",
+            "assignedTo": "Rahul Das",
+            "tags": [
+                "Bug",
+                "Payment"
+            ],
+            "createdAt": "2026-04-20T11:20:00Z"
+        },
+        {
+            "id": "T-006",
+            "title": "User Documentation",
+            "description": "Draft a comprehensive guide for new users onboarding.",
+            "status": "Todo",
+            "priority": "Low",
+            "dueDate": "2026-04-30",
+            "assignedTo": "Mehedi Hasan",
+            "tags": [
+                "Documentation",
+                "Content"
+            ],
+            "createdAt": "2026-04-18T16:00:00Z"
+        }
+    ]
+}
