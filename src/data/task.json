@@ -1,7 +1,7 @@
 {
     "tasks": [
         {
-            "id": "T-001",
+            "id": "1",
             "title": "API Integration",
             "description": "Connect the frontend with the core REST API endpoints.",
             "status": "In Progress",
@@ -15,7 +15,7 @@
             "createdAt": "2026-04-18T10:30:00Z"
         },
         {
-            "id": "T-002",
+            "id": "2",
             "title": "Homepage UI Design",
             "description": "Create a high-fidelity mockup for the new landing page.",
             "status": "Completed",
@@ -29,7 +29,7 @@
             "createdAt": "2026-04-10T08:15:00Z"
         },
         {
-            "id": "T-003",
+            "id": "3",
             "title": "Database Migration",
             "description": "Migrate data from legacy SQL server to the new cloud instance.",
             "status": "Pending",
@@ -43,7 +43,7 @@
             "createdAt": "2026-04-19T14:45:00Z"
         },
         {
-            "id": "T-004",
+            "id": "4",
             "title": "Social Media Campaign",
             "description": "Launch the Facebook and Instagram ad campaign for summer sale.",
             "status": "In Progress",
@@ -57,7 +57,7 @@
             "createdAt": "2026-04-17T09:00:00Z"
         },
         {
-            "id": "T-005",
+            "id": "5",
             "title": "Bug Fixing - Checkout",
             "description": "Fix the issue where credit card payment fails for some users.",
             "status": "Todo",
@@ -71,7 +71,7 @@
             "createdAt": "2026-04-20T11:20:00Z"
         },
         {
-            "id": "T-006",
+            "id": "6",
             "title": "User Documentation",
             "description": "Draft a comprehensive guide for new users onboarding.",
             "status": "Todo",
